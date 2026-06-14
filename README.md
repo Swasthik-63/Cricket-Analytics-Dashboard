@@ -21,10 +21,6 @@ The goal is to extract meaningful insights about team performance, player achiev
 * Top IPL Venues
 * Season Summary Metrics
 
-## Dashboard Preview
-
-(Add dashboard screenshot here)
-
 ## Project Structure
 
 * Data Cleaning and Analysis using Pandas
