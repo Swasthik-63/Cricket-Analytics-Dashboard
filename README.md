@@ -18,7 +18,7 @@ The goal is to extract meaningful insights about team performance, player achiev
 * Top Winning Teams in IPL
 * Top IPL Run Scorers
 * Player of the Match Analysis
-* Most Active IPL Venues
+* Top IPL Venues
 * Season Summary Metrics
 
 ## Dashboard Preview
@@ -34,3 +34,16 @@ The goal is to extract meaningful insights about team performance, player achiev
 ## Author
 
 Swasthik B
+
+## Note
+
+The original Power BI (.pbix) file and raw IPL datasets are not included in this repository due to file size limitations on GitHub web uploads.
+
+The repository contains:
+
+* Jupyter Notebook analysis
+* Processed datasets
+* Dashboard screenshot
+* Project documentation
+
+The dashboard was built using Python, Pandas, Jupyter Notebook, and Power BI.
